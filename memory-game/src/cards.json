@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Eren Jaeger",
+    "image": "https://pbs.twimg.com/profile_images/378800000048620046/d3376798c343f3fe582c8649f9cc7773.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Levi Ackerman",
+    "image": "https://78.media.tumblr.com/cf5ff1304636fbbec6f7cb59c743a024/tumblr_nrhg1t4uBL1u2dzt6o9_400.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Mikasa Ackerman",
+    "image": "https://pbs.twimg.com/profile_images/424025766121066496/UgOY4Y1a.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Sasha Blouse",
+    "image": "https://pbs.twimg.com/profile_images/430846293611520000/2pP--7D8.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Zoe Hange",
+    "image": "https://pbs.twimg.com/profile_images/414389241712365568/BTkP1twa.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Armin Arlert",
+    "image": "http://s1.narvii.com/image/dbl2xaws5bbot2f2dxyl5wd7athep2ko_00.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Jean Kirstein",
+    "image": "https://pbs.twimg.com/profile_images/378800000810897707/b7c26a84ae027de2a2806ab50dd37570.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Erwin Smith",
+    "image": "https://pbs.twimg.com/profile_images/430043292038754304/9MyHMiZb.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Hannes",
+    "image": "https://pm1.narvii.com/6516/659b373ea6b24b450ab35026fea343ac11eca810_00.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Connor Springer",
+    "image": "https://vignette.wikia.nocookie.net/slap-on-titan5669/images/d/d0/Kh_SXoWp.jpeg/revision/latest?cb=20180118210548",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Petra Ral",
+    "image": "https://pbs.twimg.com/profile_images/378800000538737335/dcadbe5048ca326b33ede9ff0ed2965b.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Dot Pixis",
+    "image": "https://pbs.twimg.com/profile_images/378800000619541306/6bd92db231709875a6c917a8dbc4d93a.png",
+    "clicked": false
+  }
+]
